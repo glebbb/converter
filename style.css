@@ -1,0 +1,32 @@
+
+
+html, body {
+    font-size: 18px;
+    text-align: center;
+    background-color: grey;
+    margin-top: 60px;
+
+}
+
+
+
+select, input, button {
+
+    padding: 14px;
+    font-size: 1rem;
+
+}
+
+.ui-2{
+
+    font-size: 25px;
+
+}
+
+.final-value{
+
+    bottom: 21px;
+    color: lightsalmon;
+    font-size: 16px;
+
+}
